@@ -1,4 +1,4 @@
-# AliceApp_kotlin
+# AliceApp_Kotlin
 aliceapp by kotlin
 
 alice377_android_kotlin
